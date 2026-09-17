@@ -529,7 +529,7 @@ const Warranty = () => {
         </head>
         <body>
           <div class="header">
-            <img src="/avva-logo.jpeg" alt="RV Textiles Logo" style="max-width: 150px; margin-bottom: 10px;">
+            <img src="/rv-textiles-logo.jpeg" alt="RV Textiles Logo" style="max-width: 150px; margin-bottom: 10px;">
             <h1>${companyDetails.name}</h1>
             <h2 style="color: #6b7280; font-size: 18px; margin-top: 0;">Warranty Report</h2>
           </div>

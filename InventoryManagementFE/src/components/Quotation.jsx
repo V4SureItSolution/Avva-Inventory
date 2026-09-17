@@ -934,7 +934,7 @@ const QuotationPage = () => {
         </head>
         <body>
           <div class="header">
-            <img src="/avva-logo.jpeg" class="company-logo" alt="RV Textiles Logo">
+            <img src="/rv-textiles-logo.jpeg" class="company-logo" alt="RV Textiles Logo">
             <div class="company-name">RV Textiles</div>
             <div class="company-details">No.71, M.T.H.road (Opp padi post office), Padi, Chennai - 600 050</div>
             <div class="company-details">Phone: 98657 09626 | Email: hiprintsolutions@gmail.com | GST: 33ABCDE1234F1Z5</div>
@@ -1286,7 +1286,7 @@ const QuotationPage = () => {
             <div style={styles.modalContent}>
               {/* Company Header */}
               <div style={styles.viewCompanyHeader}>
-                <img src="/avva-logo.jpeg" alt="RV Textiles Logo" style={{ maxWidth: '120px', marginBottom: '10px' }} />
+                <img src="/rv-textiles-logo.jpeg" alt="RV Textiles Logo" style={{ maxWidth: '120px', marginBottom: '10px' }} />
                 <h3 style={{ color: '#3b82f6', margin: 0 }}>{companyDetails.name}</h3>
                 <p style={{ margin: '5px 0', color: '#94a3b8' }}>{companyDetails.address}</p>
                 <p style={{ margin: 0, color: '#94a3b8' }}>Phone: {companyDetails.phone} | Email: {companyDetails.email}</p>

@@ -884,7 +884,7 @@ const InvoicePage = () => {
         </head>
         <body>
           <div class="header">
-            <img src="/avva-logo.jpeg" class="company-logo" alt="RV Textiles Logo">
+            <img src="/rv-textiles-logo.jpeg" class="company-logo" alt="RV Textiles Logo">
             <div class="company-name">RV Textiles</div>
             <div class="company-details">No.71, M.T.H.road (Opp padi post office), Padi, Chennai - 600 050</div>
             <div class="company-details">Phone: 98657 09626 | Email: hiprintsolutions@gmail.com | GST: 33ABCDE1234F1Z5</div>

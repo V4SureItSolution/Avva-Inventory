@@ -1121,7 +1121,7 @@ const VisitBillPage = () => {
         </head>
         <body>
           <div class="header">
-            <img src="/avva-logo.jpeg" class="logo" alt="RV Textiles Logo" />
+            <img src="/rv-textiles-logo.jpeg" class="logo" alt="RV Textiles Logo" />
             <h1>${companyDetails.name}</h1>
             <p>${companyDetails.address}</p>
             <p>${companyDetails.city}</p>

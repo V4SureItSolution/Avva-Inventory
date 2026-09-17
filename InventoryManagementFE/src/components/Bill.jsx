@@ -1877,7 +1877,7 @@ const Bill = () => {
         <body>
           <div id="billPaper">
             <div class="bill-header">
-              <img src="/avva-logo.jpeg" class="bill-logo" alt="RV Textiles Logo">
+              <img src="/rv-textiles-logo.jpeg" class="bill-logo" alt="RV Textiles Logo">
               <h1>${shopDetails.name}</h1>
               <p>${shopDetails.address}</p>
               <p>${shopDetails.city}</p>
@@ -2752,7 +2752,7 @@ const Bill = () => {
             ref={billPaperRef}
           >
             <div className="bill-header">
-              <img src="/avva-logo.jpeg" alt="RV Textiles Logo" style={{ maxWidth: '100px', marginBottom: '5px', display: 'block', marginLeft: 'auto', marginRight: 'auto' }} />
+              <img src="/rv-textiles-logo.jpeg" alt="RV Textiles Logo" style={{ maxWidth: '100px', marginBottom: '5px', display: 'block', marginLeft: 'auto', marginRight: 'auto' }} />
               <h1 style={baseStyles.billHeaderH1}>{shopDetails.name}</h1>
               <p style={baseStyles.billHeaderP}>{shopDetails.address}</p>
               <p style={baseStyles.billHeaderP}>{shopDetails.city}</p>
